@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Мини-игра Илон Маск</title>
+  </head>
+  <body>
+    <h1>Добро пожаловать в мини-игру "Илон Маск"</h1>
+    <p>
+      Вы Илон Маск и должны спасти марсиан от нападения инопланетных захватчиков!
+    </p>
+    <button onclick="startGame()">Начать игру</button>
+    <script>
+      function startGame() {
+        alert("Игра началась!");
+        // код для игры
+      }
+    </script>
+  </body>
+</html>
